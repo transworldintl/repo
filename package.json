@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "OPENNEXT_DANGEROUSLY_USE_UNSUPPORTED_NEXT_VERSION=true npx wrangler deploy"
   },
   "dependencies": {
     "flag-icons": "^7.5.0",
