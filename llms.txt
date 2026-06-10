@@ -1,0 +1,35 @@
+# Transworld Translation (Pvt) Ltd
+
+Embassy-authorized certified translation company based in Pakistan, offering professional translation, interpreting, proofreading, and localization services between Urdu/English and foreign languages (Italian, Spanish, French, German, Arabic, Turkish, and more). Also offers language courses in Islamabad.
+
+## Main pages
+
+- Home: https://www.transworldintl.com.pk/
+- About: https://www.transworldintl.com.pk/components/about
+- Services: https://www.transworldintl.com.pk/services
+- Contact: https://www.transworldintl.com.pk/components/contact
+- Courses: https://www.transworldintl.com.pk/all_courses
+- Privacy Policy: https://www.transworldintl.com.pk/privacy-policy
+
+## Services
+
+- Translation: https://www.transworldintl.com.pk/services/translation
+- Interpreting: https://www.transworldintl.com.pk/services/interpreting
+- Proofreading: https://www.transworldintl.com.pk/services/proofreading
+- Localization: https://www.transworldintl.com.pk/services/localization
+
+## Languages
+
+- Italian: https://www.transworldintl.com.pk/language/italian
+- Spanish: https://www.transworldintl.com.pk/language/spanish
+- French: https://www.transworldintl.com.pk/language/french
+- German: https://www.transworldintl.com.pk/language/german
+- Arabic: https://www.transworldintl.com.pk/language/arabic
+- Turkish: https://www.transworldintl.com.pk/language/turkish
+- English: https://www.transworldintl.com.pk/language/english
+
+## Courses
+
+- Italian Language Course (ITL): https://www.transworldintl.com.pk/courses/ITL
+- French Language Course (FR): https://www.transworldintl.com.pk/courses/FR
+- English Language Course (ENG): https://www.transworldintl.com.pk/courses/ENG

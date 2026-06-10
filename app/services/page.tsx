@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { Globe, BookOpenCheck, Languages, ScrollText } from "lucide-react";
+import JsonLd, { breadcrumb } from "../components/JsonLd";
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },
   visible: { opacity: 1, y: 0 },
@@ -46,6 +47,7 @@ const services = [
 export default function servicesPage() {
   return (
     <div className="w-full overflow-hidden bg-white">
+      <JsonLd data={breadcrumb([{ name: 'Home', url: '/' }, { name: 'Services', url: '/services' }])} />
       {/* HERO SECTION */}
       <section
         className="relative flex min-h-[420px] items-center justify-center overflow-hidden px-6 text-white"
@@ -129,7 +131,7 @@ export default function servicesPage() {
                     <div className="mb-[26px] flex h-[82px] w-[82px] items-center justify-center">
                       <img
                         src={service.image}
-                        alt={service.title}
+                        alt={`${service.title} service icon`}
                         className="h-[60px] w-[60px] object-contain"
                       />
                     </div>
@@ -329,7 +331,7 @@ export default function servicesPage() {
             >
               <img
                 src="/TT.png"
-                alt="Objective"
+                alt="Transworld Translation office"
                 className="h-[280px] w-[420px] object-cover shadow-md"
               />
             </motion.div>

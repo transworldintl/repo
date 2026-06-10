@@ -115,7 +115,7 @@ export default function ContactPage() {
             >
               <img
                 src="/About-2.png"
-                alt="Objective"
+                alt="Transworld Translation objective illustration"
                 className="h-[280px] w-[420px] object-cover shadow-md"
               />
             </motion.div>
@@ -133,7 +133,7 @@ export default function ContactPage() {
             >
               <img
                 src="/About1.png"
-                alt="Offer"
+                alt="Transworld Translation service offer illustration"
                 className="h-[280px] w-[420px] object-cover shadow-md"
               />
             </motion.div>
@@ -246,7 +246,7 @@ export default function ContactPage() {
             >
               <img
                 src="/About-3.png"
-                alt="Founder"
+                alt="Transworld Translation founder illustration"
                 className="h-[280px] w-[420px] object-cover shadow-md"
               />
             </motion.div>
